@@ -1,0 +1,19 @@
+{
+  "name": "rawd",
+  "version": "0.0.1",
+  "description": "Roqaia Kamaluddein's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitmibrahim/rawd.git"
+  },
+  "author": "Muhammed Ibrahim (Roqaia's husband)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitmibrahim/rawd/issues"
+  },
+  "homepage": "https://github.com/gitmibrahim/rawd#readme"
+}
